@@ -1098,7 +1098,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Devicess',
+                categoryName: 'Devices',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1120,7 +1120,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Devicess',
+                categoryName: 'Devices',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1547,8 +1547,9 @@ app.get('/pod', (req, res) => {
             allowCustomFields: true,
             entitlementName: 'sample-entitlement',
         }
-
+    
     ];
+    
 
     setTimeout(() => {
         res.json(data);
