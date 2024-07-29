@@ -29,8 +29,8 @@ app.get('/prodConfig', (req, res) => {
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/activation-products-module/1.4.0-alpha+8002eb1c-7f14-42be-9400-1cf74f3d129b/activation-products-module.css",
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/activation-products-module/1.4.0-alpha+8002eb1c-7f14-42be-9400-1cf74f3d129b/activation-products-module.js"
         ],
-        "affected-devices-pod": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/affected-devices-pod/1.5.0/affected-devices-pod.js"
+        "affected-Devicess-pod": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/affected-Devicess-pod/1.5.0/affected-Devicess-pod.js"
         ],
         "affected-user-pod": [
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/affected-user-pod/1.5.0/affected-user-pod.js"
@@ -159,9 +159,9 @@ app.get('/prodConfig', (req, res) => {
         "client-portal-module": [
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/client-portal-module/2.0.0-alpha+5d5d6997-245c-4c45-9bab-db278dd336c9/client-portal-module.js"
         ],
-        "cloud-devices": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/cloud-devices/2.7.0-alpha+1f98ad3e-877d-4339-b978-a48311a7ee30/cloud-devices.css",
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/cloud-devices/2.7.0-alpha+1f98ad3e-877d-4339-b978-a48311a7ee30/cloud-devices.js"
+        "cloud-Devicess": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/cloud-Devicess/2.7.0-alpha+1f98ad3e-877d-4339-b978-a48311a7ee30/cloud-Devicess.css",
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/cloud-Devicess/2.7.0-alpha+1f98ad3e-877d-4339-b978-a48311a7ee30/cloud-Devicess.js"
         ],
         "cloud-monitoring-common-service": [
             "https://static.itsupport247.net/platform-launchpad-ui-v2/cloud-monitoring-common-service/1.0.1-alpha.239/cloud-monitoring-common-service.js"
@@ -242,39 +242,39 @@ app.get('/prodConfig', (req, res) => {
         "dashboard-banner-coming-soon-module": [
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/dashboard-banner-coming-soon-module/3.0.2-alpha+5efee4ed-39ef-4204-8df8-46d8be092a3a/dashboard-banner-coming-soon-module.js"
         ],
-        "device-groups-common-components": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/device-groups-common-components/2.6.0-alpha+5528a47b-d26f-4854-add7-b8e903c15d75/device-groups-common-components.css",
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/device-groups-common-components/2.6.0-alpha+5528a47b-d26f-4854-add7-b8e903c15d75/device-groups-common-components.js"
+        "Devices-groups-common-components": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devices-groups-common-components/2.6.0-alpha+5528a47b-d26f-4854-add7-b8e903c15d75/Devices-groups-common-components.css",
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devices-groups-common-components/2.6.0-alpha+5528a47b-d26f-4854-add7-b8e903c15d75/Devices-groups-common-components.js"
         ],
-        "device-groups-legacy-components": [
+        "Devices-groups-legacy-components": [
             "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js",
             "https://static.itsupport247.net/platform-common-vendor/1.0.15/platform-common-vendor.css",
             "https://static.itsupport247.net/platform-common-ui/3.2.82/platform-common-ui.css",
             "https://static.itsupport247.net/platform-common-vendor/1.0.15/vendor-essentials.js",
             "https://static.itsupport247.net/platform-common-ui/3.2.82/platform-common-ui.js"
         ],
-        "device-groups-module": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/device-groups-module/4.7.0-alpha+754b0cbd-d640-49d8-bf4c-061b325ba146/device-groups-module.css",
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/device-groups-module/4.7.0-alpha+754b0cbd-d640-49d8-bf4c-061b325ba146/device-groups-module.js"
+        "Devices-groups-module": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devices-groups-module/4.7.0-alpha+754b0cbd-d640-49d8-bf4c-061b325ba146/Devices-groups-module.css",
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devices-groups-module/4.7.0-alpha+754b0cbd-d640-49d8-bf4c-061b325ba146/Devices-groups-module.js"
         ],
-        "device-groups-service": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/device-groups-service/3.9.0-alpha+3c72acdc-18f0-453d-8e34-abc8600ac270/device-groups-service.js"
+        "Devices-groups-service": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devices-groups-service/3.9.0-alpha+3c72acdc-18f0-453d-8e34-abc8600ac270/Devices-groups-service.js"
         ],
-        "devices-availability-desktop": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/devices-availability-desktop/1.2.0-alpha+9520a322-ed90-4283-ae5a-fc77ba76c6cb/devices-availability-desktop.js"
+        "Devicess-availability-desktop": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devicess-availability-desktop/1.2.0-alpha+9520a322-ed90-4283-ae5a-fc77ba76c6cb/Devicess-availability-desktop.js"
         ],
-        "devices-availability-server": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/devices-availability-server/1.2.0-alpha+73432843-cea4-4f44-ba74-fb580472a052/devices-availability-server.js"
+        "Devicess-availability-server": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devicess-availability-server/1.2.0-alpha+73432843-cea4-4f44-ba74-fb580472a052/Devicess-availability-server.js"
         ],
-        "devices-common-service": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/devices-common-service/7.0.5-alpha+45111e5e-23ca-4ebd-896d-43cd6b106b39/devices-common-service.js"
+        "Devicess-common-service": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devicess-common-service/7.0.5-alpha+45111e5e-23ca-4ebd-896d-43cd6b106b39/Devicess-common-service.js"
         ],
-        "devices-dashboard-module": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/devices-dashboard-module/1.25.1-alpha+27792f95-52d8-4133-9e4c-08d87e773dba/devices-dashboard-module.js"
+        "Devicess-dashboard-module": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devicess-dashboard-module/1.25.1-alpha+27792f95-52d8-4133-9e4c-08d87e773dba/Devicess-dashboard-module.js"
         ],
-        "devices-module": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/devices-module/9.14.0-alpha+14c24582-adad-42b4-ba37-afeb5c277acf/devices-module.css",
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/devices-module/9.14.0-alpha+14c24582-adad-42b4-ba37-afeb5c277acf/devices-module.js"
+        "Devicess-module": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devicess-module/9.14.0-alpha+14c24582-adad-42b4-ba37-afeb5c277acf/Devicess-module.css",
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/Devicess-module/9.14.0-alpha+14c24582-adad-42b4-ba37-afeb5c277acf/Devicess-module.js"
         ],
         "documentation-common-service": [
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/documentation-common-service/1.6.0-alpha+4UrU-7B89l5CeOwUFe9QNEMkqkk-/documentation-common-service.js"
@@ -492,9 +492,9 @@ app.get('/prodConfig', (req, res) => {
         "navigation-service-ui": [
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/navigation-service-ui/3.4.0-alpha+e4fab290-16c0-40b4-b8f3-07decff44b6e/navigation-service-ui.js"
         ],
-        "network-devices": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/network-devices/1.18.0-alpha+2fa9a1b0-813a-4fed-826a-1fff2ab659a5/network-devices.css",
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/network-devices/1.18.0-alpha+2fa9a1b0-813a-4fed-826a-1fff2ab659a5/network-devices.js"
+        "network-Devicess": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/network-Devicess/1.18.0-alpha+2fa9a1b0-813a-4fed-826a-1fff2ab659a5/network-Devicess.css",
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/network-Devicess/1.18.0-alpha+2fa9a1b0-813a-4fed-826a-1fff2ab659a5/network-Devicess.js"
         ],
         "nms-configuration": [
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/nms-configuration/1.5.0-alpha+2334dc2d-eaac-4508-b92e-0a7a8dc23150/nms-configuration.js"
@@ -672,14 +672,14 @@ app.get('/prodConfig', (req, res) => {
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/resource-selector-components/8.1.0-alpha+97c8a319-b1ee-4791-bf72-3bf9f6a8e4b1/resource-selector-components.css",
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/resource-selector-components/8.1.0-alpha+97c8a319-b1ee-4791-bf72-3bf9f6a8e4b1/resource-selector-components.js"
         ],
-        "rmm-cloud-devices": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/rmm-cloud-devices/1.1.0-alpha+e26411b9-5392-461c-9615-6af9430604d3/rmm-cloud-devices.js"
+        "rmm-cloud-Devicess": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/rmm-cloud-Devicess/1.1.0-alpha+e26411b9-5392-461c-9615-6af9430604d3/rmm-cloud-Devicess.js"
         ],
-        "rmm-devices": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/rmm-devices/1.2.0-alpha+90130ca3-aa04-4518-b5fa-52703c205cc5/rmm-devices.js"
+        "rmm-Devicess": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/rmm-Devicess/1.2.0-alpha+90130ca3-aa04-4518-b5fa-52703c205cc5/rmm-Devicess.js"
         ],
-        "rmm-network-devices": [
-            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/rmm-network-devices/1.1.0-alpha+2a4dd169-a444-4071-bcd1-234577f85949/rmm-network-devices.js"
+        "rmm-network-Devicess": [
+            "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/rmm-network-Devicess/1.1.0-alpha+2a4dd169-a444-4071-bcd1-234577f85949/rmm-network-Devicess.js"
         ],
         "rmm-scan-tool-components": [
             "https://static.qa.itsupport247.net/platform-launchpad-ui-v2/rmm-scan-tool-components/1.2.0-alpha+39dfd240-8cfb-4f13-97fb-f4c335d2d618/rmm-scan-tool-components.css",
@@ -969,16 +969,16 @@ app.get('/prodConfig', (req, res) => {
         ]
     }
 
-    setTimeout(()=>{
-        res.json({launchpadPackageConfig:launchpadPackageConfig});
-    },100)
-   
+    setTimeout(() => {
+        res.json({ launchpadPackageConfig: launchpadPackageConfig });
+    }, 100)
+
 });
 
 app.get('/pod', (req, res) => {
     const data = [
         {
-            id: '3fa85f64-5717-4562-b3fc-2cqq3f66afa61',
+            id: '3fa85121f64-5717-4562-b3fc-2cqq3f66afa61',
             type: 'pod',
             identifier: 'module',
             imageUrl: 'https://placehold.co/600x400',
@@ -999,7 +999,7 @@ app.get('/pod', (req, res) => {
             entitlementName: 'sample-entitlement',
         },
         {
-            id: '3fa8dvd5f64-57zc17-4562-b3fc-2cqq3f66afa61',
+            id: '3fa8dvd5f64-57zc17-4562-b3ee112fc-2cqq3f66afa61',
             type: 'pod',
             identifier: 'activation',
             imageUrl: 'https://placehold.co/600x400',
@@ -1020,7 +1020,7 @@ app.get('/pod', (req, res) => {
             entitlementName: 'sample-entitlement',
         },
         {
-            id: '3fa8xxxxx5f64-5717-4562-b3fc-2cqq3f66afa61',
+            id: '3fa8xxxx2e1r684x5f64-5717-4562-b3fc-2cqq3f66afa61',
             type: 'pod',
             releaseType: "",
             identifier: 'ticket-notes',
@@ -1042,7 +1042,7 @@ app.get('/pod', (req, res) => {
             entitlementName: 'sample-entitlement',
         },
         {
-            id: '3fa85f64-5717-4562-b3fc-2cqq3fddd66afa61',
+            id: '3fa85f64-5717-4562-b3fc-2cqq3fddd664t3afa61',
             type: 'pod',
             releaseType: "",
             identifier: 'ticket-notes',
@@ -1098,7 +1098,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Devices',
+                categoryName: 'Devicess',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1120,7 +1120,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Devices',
+                categoryName: 'Devicess',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1208,7 +1208,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Device',
+                categoryName: 'Devices',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1230,7 +1230,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Device',
+                categoryName: 'Devices',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1253,7 +1253,7 @@ app.get('/pod', (req, res) => {
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
                 categoryName: 'Admin',
-                moduleName: 'Device',
+                moduleName: 'Devices',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
                 component: null,
@@ -1274,7 +1274,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Device',
+                categoryName: 'Devices',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1296,7 +1296,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Device',
+                categoryName: 'Devices',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1362,7 +1362,7 @@ app.get('/pod', (req, res) => {
                 description:
                     'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
                 categoryId: '1111',
-                categoryName: 'Device',
+                categoryName: 'Devices',
                 moduleName: 'contact',
                 fileLocation: ['test/location/test-component-123.js'],
                 componentProps: {},
@@ -1414,16 +1414,149 @@ app.get('/pod', (req, res) => {
             },
             allowCustomFields: true,
             entitlementName: 'sample-entitlement',
+        },
+        {
+            id: '3fa85nhknbetabf64sssadwsvsvsvsvs-5717-4562-b3fc-2cqq3f66afa61',
+            type: 'pod',
+            releaseType: "",
+            identifier: 'ticket-notes',
+            imageUrl: 'https://placehold.co/600x400',
+            metadata: {
+                managePermissions: ['Permission 1', 'Permission 2'],
+                name: 'contact-overview',
+                title: 'Chart',
+                description:
+                    'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
+                categoryId: '1111',
+                categoryName: 'Reports',
+                moduleName: 'contact',
+                fileLocation: ['test/location/test-component-123.js'],
+                componentProps: {},
+                component: null,
+            },
+            allowCustomFields: true,
+            entitlementName: 'sample-entitlement',
+        },
+        {
+            id: '3svsvsvfa8nryul6nbeartb5f64-5717-4562-b3fc-2cqq3f66afa61',
+            type: 'pod',
+            releaseType: "",
+            identifier: 'ticket-notes',
+            imageUrl: 'https://placehold.co/600x400',
+            metadata: {
+                managePermissions: ['Permission 1', 'Permission 2'],
+                name: 'contact-overview',
+                title: 'Chart',
+                description:
+                    'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
+                categoryId: '1111',
+                categoryName: 'Reports',
+                moduleName: 'contact',
+                fileLocation: ['test/location/test-component-123.js'],
+                componentProps: {},
+                component: null,
+            },
+            allowCustomFields: true,
+            entitlementName: 'sample-entitlement',
+        },
+        {
+            id: '3fa85fadvsfbdgnfyirgrsehm64-5717-4562-b3fc-2cqq3f66afa61',
+            type: 'pod',
+            releaseType: "",
+            identifier: 'ticket-notes',
+            imageUrl: 'https://placehold.co/600x400',
+            metadata: {
+                managePermissions: ['Permission 1', 'Permission 2'],
+                name: 'contact-overview',
+                title: 'Chart',
+                description:
+                    'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
+                categoryId: '1111',
+                categoryName: 'Reports',
+                moduleName: 'contact',
+                fileLocation: ['test/location/test-component-123.js'],
+                componentProps: {},
+                component: null,
+            },
+            allowCustomFields: true,
+            entitlementName: 'sample-entitlement',
+        },
+        {
+            id: '3fa85fujyrhtergwefa6fvbghjmk,mjhngfb4-5717-4562-b3fc-2cqq3f66afa61',
+            releaseType: "",
+            type: 'pod',
+            identifier: 'activation-products-module',
+            imageUrl: 'https://placehold.co/600x400',
+            metadata: {
+                managePermissions: ['Permission 1', 'Permission 2'],
+                name: 'contact-overview',
+                title: 'Chart',
+                description:
+                    'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
+                categoryId: '1111',
+                categoryName: 'Tickets',
+                moduleName: 'contact',
+                fileLocation: ['test/location/test-component-123.js'],
+                componentProps: {},
+                component: null,
+            },
+            allowCustomFields: true,
+            entitlementName: 'sample-entitlement',
+        },
+        {
+            id: '3fapvawgagbaedvdvdv85f64-5717-4562-b3fc-2cqq3f66afa61',
+            type: 'pod',
+            releaseType: "",
+            identifier: '',
+            imageUrl: 'https://placehold.co/600x400',
+            metadata: {
+                managePermissions: ['Permission 1', 'Permission 2'],
+                name: 'contact-overview',
+                title: 'Chart',
+                description:
+                    'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
+                categoryId: '1111',
+                categoryName: 'Tickets',
+                moduleName: 'contact',
+                fileLocation: ['test/location/test-component-123.js'],
+                componentProps: {},
+                component: null,
+            },
+            allowCustomFields: true,
+            entitlementName: 'sample-entitlement',
+        },
+        {
+            id: '3fapvawgagbaedvdvdv85f64-5717-4562-b3fc-2cqq3ikyyjtehbf66afa61',
+            type: 'pod',
+            releaseType: "",
+            identifier: '',
+            imageUrl: 'https://placehold.co/600x400',
+            metadata: {
+                managePermissions: ['Permission 1', 'Permission 2'],
+                name: 'contact-overview',
+                title: 'Chart',
+                description:
+                    'Chart ipsum dolor sit lorem a amet, consectetur adipiscing elit',
+                categoryId: '1111',
+                categoryName: 'Tickets',
+                moduleName: 'contact',
+                fileLocation: ['test/location/test-component-123.js'],
+                componentProps: {},
+                component: null,
+            },
+            allowCustomFields: true,
+            entitlementName: 'sample-entitlement',
         }
-    ];  
+
+    ];
 
     setTimeout(() => {
-        res.json(data);     
-    },100);
-   
+        res.json(data);
+    }, 100);
+
 })
-    // Start the server
-    const PORT = process.env.PORT || 5000;
-    app.listen(PORT, () => {
-        console.log(`Server is running on port ${PORT}`);
-    });
+// Start the server
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
